@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/thedaviddias/Front-End-Checklist/master/data/images/logo-front-end-checklist.jpg" alt="Front-End Checklist" width="130">
   <br>
     <br>
-  Front-End Checklist
+  Front-End Checklist - A dream to be come true!
   <br>
 </h1>
 
